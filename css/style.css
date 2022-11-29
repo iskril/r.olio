@@ -1885,6 +1885,11 @@ input::-webkit-inner-spin-button {
     left: 58px;
   }
 
+  .about__item {
+    margin-bottom: 150px;
+    margin-top: 40px;
+  }
+
   .delivery__desc {
     font-size: 14px;
   }
